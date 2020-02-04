@@ -210,8 +210,7 @@ ggplot(df, aes(x = age_num,
   xlab('Age')+
   ylab('Number of people')
 ```
-
-<img src="r_user_guide_files/figure-gfm/plot_population_pyramid-1.png" style="display: block; margin: auto;" />
+![](plot_population_pyramid-1.png)
 
 ## Function to call API from R
 
